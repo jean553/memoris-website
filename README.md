@@ -1,2 +1,3 @@
 # memoris-website
-Memoris website
+
+Website for the Memoris project.
